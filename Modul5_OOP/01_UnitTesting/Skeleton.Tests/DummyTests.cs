@@ -17,7 +17,7 @@ namespace Skeleton.Tests
             dummy.TakeAttack(5);
 
             // Assert
-            Assert.AreEqual(5, dummy.Health, "Dummy health doesn't decrease after attack.");
+            Assert.That(dummy.Health, Is.EqualTo(5), "Dummy health doesn't decrease after attack.");
         }
 
         [Test]
@@ -41,7 +41,7 @@ namespace Skeleton.Tests
             int experience = dummy.GiveExperience();
 
             // Assert
-            Assert.AreEqual(20, experience, "Dead dummy must give experience.");
+            Assert.That(experience, Is.EqualTo(20), "Dead dummy must give experience.");
         }
 
         [Test]
