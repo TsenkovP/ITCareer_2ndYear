@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Modul5_OOP/" />
+  <Folder Name="/Modul5_OOP/01_UnitTesting/" />
+  <Folder Name="/Modul5_OOP/02_DefiningClasses/" />
+  <Folder Name="/Modul5_OOP/03_Generics(TemplateClasses)/" />
+  <Folder Name="/Modul5_OOP/04_InheritanceAndAbstraction/" />
+  <Folder Name="/Modul5_OOP/05_Polymorphism/" />
+  <Folder Name="/Modul5_OOP/06_Objects/" />
+  <Folder Name="/Modul5_OOP/07_FunctionalProgramming/" />
+  <Folder Name="/Modul5_OOP/08_Delegates.Events/" />
+  <Folder Name="/Modul5_OOP/09_Exцeptions/" />
+  <Folder Name="/Modul5_OOP/10_Streams/" />
+  <Folder Name="/Modul5_OOP/11_DesignPaterns/" />
+</Solution>
