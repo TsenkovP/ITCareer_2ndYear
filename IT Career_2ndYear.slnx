@@ -2,8 +2,8 @@
   <Folder Name="/Modul5_OOP/" />
   <Folder Name="/Modul5_OOP/01_UnitTesting/">
     <Project Path="D:/ИТ Кариера/IT кариера 2 година 2025/Учебни материали-ООП/01. Компонентно тестване/Skeleton/Skeleton/Skeleton.csproj" />
+    <Project Path="Modul5_OOP/01_UnitTesting/Skeleton.Tests.GoodPractices/Skeleton.Tests.GoodPractices.csproj" />
     <Project Path="Modul5_OOP/01_UnitTesting/Skeleton.Tests/Skeleton.Tests.csproj" />
-    <Project Path="Skeleton.Tests.GoodPractices/Skeleton.Tests.GoodPractices.csproj" Id="61538307-b9ca-4d8f-b9ae-43658aa775ca" />
   </Folder>
   <Folder Name="/Modul5_OOP/02_DefiningClasses/" />
   <Folder Name="/Modul5_OOP/03_Generics(TemplateClasses)/" />
